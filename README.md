@@ -1,0 +1,11 @@
+«Idoctype html>
+chiml>
+Chead>
+(meta charset = "utf-8*>
+‹title>ChatGPT</title>
+(link rel-"icon" href-"icon.png">
+</head>
+<body>
+hello world
+</body>
+</html>
